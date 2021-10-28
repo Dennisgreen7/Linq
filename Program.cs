@@ -175,7 +175,7 @@ namespace LinqHM
                                                        city.NumberOfPopulation < 25000 ? "Yashov":null
                                                      )
                                                      }).ToList();
-;
+
             var AnonymousNumberOfPopulationQueryM = citysClassList.Select(city => new { city.Name, Type = (city.NumberOfPopulation > 25000 ? "City": city.NumberOfPopulation < 25000 ? "Yashov":null) }).ToList();
 
             Console.ReadLine();
