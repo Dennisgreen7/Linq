@@ -1,0 +1,16 @@
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\bin\Debug\net5.0\LinqHM.exe
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\bin\Debug\net5.0\LinqHM.deps.json
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\bin\Debug\net5.0\LinqHM.runtimeconfig.json
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\bin\Debug\net5.0\LinqHM.runtimeconfig.dev.json
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\bin\Debug\net5.0\LinqHM.dll
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\bin\Debug\net5.0\ref\LinqHM.dll
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\bin\Debug\net5.0\LinqHM.pdb
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\obj\Debug\net5.0\LinqHM.csproj.AssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\obj\Debug\net5.0\LinqHM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\obj\Debug\net5.0\LinqHM.AssemblyInfoInputs.cache
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\obj\Debug\net5.0\LinqHM.AssemblyInfo.cs
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\obj\Debug\net5.0\LinqHM.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\obj\Debug\net5.0\LinqHM.dll
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\obj\Debug\net5.0\ref\LinqHM.dll
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\obj\Debug\net5.0\LinqHM.pdb
+C:\Dot.Net\C# Advanced\Shior12\LinqHM\obj\Debug\net5.0\LinqHM.genruntimeconfig.cache
